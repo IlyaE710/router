@@ -1,0 +1,8 @@
+.idea
+logs
+vendor
+web
+docker
+.php-cs-fixer.cache
+src/contollers
+/src/controllers/
